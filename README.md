@@ -1,0 +1,2 @@
+# csgo_dataset
+The dataset for the paper regarding the tactical strategies of Players. The proposed dataset is comprehensive and diverse, consisting of multiple modalities such as gameplay videos, in-game chat logs, and player telemetry data. The inclusion of multi-modal data enables a more holistic and nuanced understanding of player interactions, decision-making processes, and communication patterns within the game.
